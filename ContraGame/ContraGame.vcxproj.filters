@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{146b43ce-58cc-4a8a-b264-b41c88fd83de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ContraGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ContraGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ContraGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\START.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Blue.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Red.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\help.bmp" />
+    <Image Include="res\restart.bmp" />
+    <Image Include="res\backtitle.bmp" />
+    <Image Include="res\backgame.bmp" />
+    <Image Include="res\back.bmp" />
+    <Image Include="res\background.bmp" />
+    <Image Include="res\defeat.bmp" />
+    <Image Include="res\backgroundFORstop.bmp" />
+    <Image Include="res\backgroundFORhelp.bmp" />
+    <Image Include="res\stone_bricks.bmp" />
+    <Image Include="res\next.bmp" />
+    <Image Include="res\L1P.bmp" />
+    <Image Include="res\title.bmp" />
+    <Image Include="res\金钥匙.bmp" />
+    <Image Include="res\stage1.bmp" />
+    <Image Include="res\stage2.bmp" />
+    <Image Include="res\生命值.bmp" />
+    <Image Include="res\光波.bmp" />
+    <Image Include="res\光波反.bmp" />
+    <Image Include="res\bossb.bmp" />
+    <Image Include="res\bossb技能1.bmp" />
+    <Image Include="res\bossb技能2.bmp" />
+    <Image Include="res\bossb反.bmp" />
+    <Image Include="res\bossb技能1反.bmp" />
+    <Image Include="res\治疗图标.bmp" />
+    <Image Include="res\闪现图标.bmp" />
+    <Image Include="res\光波图标.bmp" />
+    <Image Include="res\陷阱.bmp" />
+    <Image Include="res\VICTORY.bmp" />
+  </ItemGroup>
+</Project>
