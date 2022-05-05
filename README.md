@@ -1,1 +1,1 @@
-# some of my homework temporarily
+# Some of my homework temporarily
