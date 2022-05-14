@@ -1,2 +1,1 @@
-# Some of my Homework temporarily
-# another finch
+# Some of my Homework Temporarily
